@@ -212,9 +212,3 @@ Full Stack Developer | Java + React | System Design Enthusiast
 ## 🧱 License
 
 This project is licensed under the **MIT License** – you’re free to use, modify, and distribute it with attribution.
-
----
-
-
-Would you like me to **generate a PlantUML architecture diagram** and include it directly in this README (as a code block or image) to visually represent the workflow? That’ll make it more complete for company/demo use.
-```

@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📚 Shelf — Kindle-like Web App for Personal Digital Library
 
 Shelf is a **full-stack web application** that allows users to upload, store, and read digital books online — similar to Kindle, but self-hosted.  
@@ -18,7 +18,7 @@ The architecture follows a **clean separation of concerns**:
 - **MinIO** as a private cloud storage for book files (PDF/EPUB)
 - **MySQL/MongoDB** for metadata (title, author, progress, etc.)
 
----
+
 
 ## 🧠 Architecture
 
